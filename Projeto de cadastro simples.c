@@ -3,7 +3,7 @@
 #include <strings.h>
 #include <mysql/mysql.h>
 #define size 200
-//Vari·veis global
+//Vari√°veis global
 char nome[size][50];
 int idade[size];
 char morada[size][50];
